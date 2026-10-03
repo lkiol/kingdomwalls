@@ -1,0 +1,9 @@
+{
+  "Wall builders": [
+    {
+      "Type": 0,
+      "Id": "All races build walls",
+      "BoolVal": true
+    }
+  ]
+}
