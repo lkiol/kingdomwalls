@@ -1,0 +1,9 @@
+{
+  "name": "Kingdom Stone Walls",
+  "GUID": "custom.kingdom_stone_walls",
+  "author": "Custom Mods",
+  "version": "0.14.22",
+  "description": "Capital walls and gates; stone gathered from civilization mines yields four times as much.",
+  "ModType": 0,
+  "UsePublicizedAssembly": false
+}
